@@ -1,0 +1,36 @@
+{
+  "name": "find-by-name",
+  "title": "Find By Name",
+  "description": "Find By Name provides a less bug-prone way to find elements by their name attribute. In particular, when the name attribute is stored in a variable it is very bug-prone to write a selector for it by hand every time.",
+  "keywords": ["find-by-name", "dom", "forms" ],
+  "version": "0.1.0",
+  "author": {
+    "name": "P'unk Avenue",
+    "url": "http://punkave.com/"
+  },
+  "maintainers": [
+    {
+      "name": "Tom Boutell",
+      "email": "tom@punkave.com",
+      "url": "http://punkave.com"
+    },
+    {
+      "name": "Kyle Stetz",
+      "email": "kyle@punkave.com",
+      "url": "http://punkave.com"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/punkave/jquery-find-by-name/LICENSE.md"
+    }
+  ],
+  "bugs": "https://github.com/punkave/jquery-find-by-name/issues",
+  "homepage": "https://github.com/punkave/jquery-find-by-name",
+  "docs": "https://github.com/punkave/jquery-find-by-name",
+  "download": "https://github.com/punkave/jquery-find-by-name",
+  "dependencies": {
+    "jquery": ">=1.9"
+  }
+}
