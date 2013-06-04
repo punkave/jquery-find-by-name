@@ -3,7 +3,7 @@
   "title": "Get Outer HTML",
   "description": "Get Outer HTML lets you get the \"outer HTML\" of an element, including the element itself, even in browsers that do not natively support that. This is a very small plugin which does not include a setter for those who don't need a setter.",
   "keywords": ["get-outer-html", "dom", "polyfill" ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "P'unk Avenue",
     "url": "http://punkave.com/"
