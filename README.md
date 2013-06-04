@@ -1,6 +1,6 @@
 # jquery-find-by-name
 
-<a href="http://apostrophenow.org/"><img src="https://raw.github.com/punkave/jquery-getOuterHTML/master/logos/logo-box-madefor.png" align="right" /></a>
+<a href="http://apostrophenow.org/"><img src="https://raw.github.com/punkave/jquery-find-by-name/master/logos/logo-box-madefor.png" align="right" /></a>
 
 `jquery-find-by-name` provides a less bug-prone way to find elements by their name attribute. In particular, when the name attribute is stored in a variable it is very bug-prone to write a selector for it by hand every time.
 
