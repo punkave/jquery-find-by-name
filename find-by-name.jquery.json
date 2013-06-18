@@ -3,7 +3,7 @@
   "title": "Find By Name",
   "description": "Find By Name provides a less bug-prone way to find elements by their name attribute. In particular, when the name attribute is stored in a variable it is very bug-prone to write a selector for it by hand every time.",
   "keywords": ["find-by-name", "dom", "forms" ],
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "P'unk Avenue",
     "url": "http://punkave.com/"
